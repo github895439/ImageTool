@@ -1,2 +1,5 @@
 ﻿Windows 7(64ビット)
 Visual Studio Express 2012 for Windows Desktop
+
+デバッグ引数:
+..\..\Image\1_IN\part.jpg 7  ..\..\Image\2_OUT\TetrisFirstNext.jpg
