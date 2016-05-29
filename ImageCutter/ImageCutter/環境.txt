@@ -1,2 +1,0 @@
-﻿Windows 7(64ビット)
-Visual Studio Express 2012 for Windows Desktop
