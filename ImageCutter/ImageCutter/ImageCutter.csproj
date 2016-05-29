@@ -121,8 +121,8 @@
     <Content Include="Image\2_OUT\8_part.jpg" />
     <Content Include="Image\2_OUT\9_part.jpg" />
     <Content Include="Image\2_OUT\LI.jpg" />
-    <Content Include="案.txt" />
-    <Content Include="環境.txt" />
+    <Content Include="draft.txt" />
+    <Content Include="environment.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
