@@ -1,2 +1,5 @@
 ﻿Windows 7(64ビット)
 Visual Studio Express 2012 for Windows Desktop
+
+デバッグ引数:
+..\..\Image\1_IN\UOSU(160516-190903-76).jpg 10 418 172 106 ..\..\Image\2_OUT\LI.jpg
